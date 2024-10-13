@@ -25,6 +25,5 @@ def password_policy_check (username, password):
 
 
 
-
-print(password_policy_check("zden", "helloHellohello1@"))
-print(password_policy_check("zdenZdenzden1@", "zdenZdenzden1@"))
+print(password_policy_check("user", "helloHellohello1@"))
+print(password_policy_check("userUseruser1@", "userUseruser1@"))
